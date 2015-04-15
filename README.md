@@ -3,4 +3,4 @@ SwitchyOptions
 
 SwitchyOptions
 
-https://raw.githubusercontent.com/xionghongyu/SwitchyOptions/master/SwitchyOptions.bak
+https://raw.githubusercontent.com/Hugo-X/SwitchyOptions/master/SwitchyOptions.bak
